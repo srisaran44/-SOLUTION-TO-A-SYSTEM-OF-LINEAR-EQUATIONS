@@ -29,7 +29,8 @@ solution = np.linalg.solve(A, B)
 print(solution)
 ```
 ## Output:
-[-4.  3. -2.]
+<img width="911" height="286" alt="screenshot-1770261731612 mfaigence 1" src="https://github.com/user-attachments/assets/a953a378-700b-43b0-b87b-4e3f7dd1a6dd" />
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
